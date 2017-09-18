@@ -53,7 +53,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_small_alternative.png" style="width:120px; height:25px;" alt="GymGo.ie" />
+                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_small_alternative.png" style="width:130px; height:30px;" alt="GymGo.ie" />
                 </a>
             </div>
 
@@ -92,7 +92,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_large_home.png" style="width:360px; height:280px;" alt="GymGo.ie" /> <br />
+                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_large_home.png" style="width:260px; height:220px;" alt="GymGo.ie" /> <br />
                    <!--<div class="embed-responsive embed-responsive-16by9">
                         <iframe width="900" height="215" frameborder="0" src="https://www.youtube.com/embed/jx_HxehI4I0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>-->
