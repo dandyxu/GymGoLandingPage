@@ -53,7 +53,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo-small.png" style="width:120px; height:25px;" alt="GymGo.ie" />
+                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_small_alternative.png" style="width:120px; height:25px;" alt="GymGo.ie" />
                 </a>
             </div>
 
@@ -92,11 +92,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>GymGo.ie</h1>
+                    <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_large_home.png" style="width:360px; height:280px;" alt="GymGo.ie" /> <br />
                    <!--<div class="embed-responsive embed-responsive-16by9">
                         <iframe width="900" height="215" frameborder="0" src="https://www.youtube.com/embed/jx_HxehI4I0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>-->
-                    <button class="video check-video-button" data-video="https://www.youtube.com/embed/jx_HxehI4I0" data-toggle="modal" data-target="#videoModal">See How it Looks Like</button>
+                    <button class="video check-video-button" data-video="https://www.youtube.com/embed/jx_HxehI4I0" data-toggle="modal" data-target="#videoModal">How it Looks Like</button>
 
                     <div class="modal fade " id="videoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -135,27 +135,21 @@
                 <div class="col-lg-6">
                 </div>
                 <div class="col-lg-6">
-                    <h1>Welcome to GymGo.ie</h1><br />
-                    <h2> - the place where people go to find Gyms and Personal Trainers</h2>
+                    <h1 style="margin-bottom: -30px;">Welcome to GymGo.ie</h1><br />
+                    <h3>Ireland's No.1 Website for Gyms & PTs</h3>
+                    <h5>Are you a Gym or Personal Trainer? <br />
+                        People are looking for Gyms and Personal Trainers to help change how they look and feel about themselves. They need to find you, get a feel for what you do and how you do it. They need reassurance that you are the best Gym or Personal Trainer to help them change their lives. </h5>
                     <br />
                     <br />
-                    <ul>
-                        <li>Next Generation Technology for the Fitness Industry</li>
-                        <li>Bringing all Gyms and PTs in Ireland to one place</li>
-                        <li>Promote the service you offer directly to customers who are genuinely looking to get fit</li>
-                        <li>No more hit or miss Advertising</li>
-                        <li>Allows Gyms and PT’s to advertise everything, including
-                            <ul>
-                                <li>Facilities</li>
-                                <li>Classes</li>
-                                <li>Pricing</li>
-                                <li>Opening times etc.</li>
-                            </ul>
-                        </li>
-                        <li>Brings customers to YOU</li>
-                        <li>Allowing them to book an online appointment</li>
-                        <li>Get directions to your Gym</li>
-                        <li>Communicate directly with You</li>
+                    <h3>GymGo.ie can help you:</h3>
+                    <ul style="text-align:left;">
+                        <li>Brings customers directly to you through next generation technology</li>
+                        <li>Allows you to promote your facilities and services the way you want them promoted</li>
+                        <li>Link your service with other social media accounts</li>
+                        <li>Get Personal: Publish videos, photos, blogs and testimonials about your service</li>
+                        <li>Be Proud: Get clients to write testimonials about how great you are </li>
+                        <li>Showcase yourself through the classes and facilities you offer</li>
+                        <li>Allows future clients to book an appointment, message you and find you</li>
                     </ul>
                 </div>
             </div>
@@ -186,7 +180,7 @@
                 <div class="col-lg-6">
                     <h1>Share to Your Friends</h1>
                         <!-- Social Buttons Section -->
-                        <div class="row" align="center" style="padding: 40px; border: 2px dashed white;">
+                        <div class="row" align="center" style="padding: 30px; border: 2px dashed white;">
                             <div class="icon-circle" style="display:inline;">
                                 <a href="https://www.facebook.com/gymgoie/" target="blank" class="ifacebook" title="GymGo.ie Facebook"><i class="fa fa-facebook"></i></a>
                             </div>
