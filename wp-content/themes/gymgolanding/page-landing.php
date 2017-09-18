@@ -102,7 +102,7 @@
                    <!--<div class="embed-responsive embed-responsive-16by9">
                         <iframe width="900" height="215" frameborder="0" src="https://www.youtube.com/embed/jx_HxehI4I0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>-->
-                    <button class="video check-video-button" data-video="https://www.youtube.com/embed/jx_HxehI4I0" data-toggle="modal" data-target="#videoModal">How it Looks Like</button>
+                    <button class="video check-video-button" data-video="https://www.youtube.com/embed/jx_HxehI4I0" data-toggle="modal" data-target="#videoModal">How it Looks</button>
 
                     <div class="modal fade " id="videoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -143,11 +143,12 @@
                 <div class="col-lg-6">
                     <h1 style="margin-bottom: -30px;">Welcome to GymGo.ie</h1><br />
                     <h3>Ireland's No.1 Website for Gyms & PTs</h3>
-                    <h5>Are you a Gym or Personal Trainer? <br />
-                        People are looking for Gyms and Personal Trainers to help change how they look and feel about themselves. They need to find you, get a feel for what you do and how you do it. They need reassurance that you are the best Gym or Personal Trainer to help them change their lives. </h5>
+                    <hr />
+                    <h4>Are you a Gym or Personal Trainer? </h4>
+                    <h4 style="line-height:30px; text-align: left;">People are looking for Gyms and Personal Trainers to help change how they look and feel about themselves. They need to find you, get a feel for what you do and how you do it. They need reassurance that you are the best Gym or Personal Trainer to help them change their lives. </h4>
                     <br />
                     <br />
-                    <h3>GymGo.ie can help you:</h3>
+                    <h3 style="margin-top: -30px;">GymGo.ie can help you:</h3>
                     <ul style="text-align:left;">
                         <li>Brings customers directly to you through next generation technology</li>
                         <li>Allows you to promote your facilities and services the way you want them promoted</li>
