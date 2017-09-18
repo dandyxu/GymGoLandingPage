@@ -1,3 +1,9 @@
+<?php
+/**
+ * Template Name: Landing Page
+ */
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,10 +12,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="GymGo.ie - the place where people go to find Gyms and PTs">
+    <meta name="description" content="GymGo.ie - Ireland's No.1 Website for Gyms & PTs">
     <meta name="author" content="GymGo.ie Team">
 
-    <title>GymGo.ie - the place where people go to find Gyms and PTs</title>
+    <title>GymGo.ie - Ireland's No.1 Website for Gyms & PTs</title>
 
     <!-- Bootstrap Core CSS -->
     <!--<link href="wp-content/themes/LoadingPageAssets/css/bootstrap.min.css" rel="stylesheet">-->
@@ -65,7 +71,7 @@
                         <a class="page-scroll" href="#about-us">About Us</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#join-us">Join Us</a>
+                        <a class="page-scroll" href="#join-us">Sign Up</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#share-to-friends">Share to Friends</a>
@@ -163,13 +169,8 @@
                 <div class="col-lg-6">
                 </div>
                 <div class="col-lg-6">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h1>Join Us</h1>
-                        </div>
-                        <div class="panel-body">
-                            <?php //echo do_shortcode("[contact-form-7 id=\"12\" title=\"Sign Up Form\"]")?>
-                        </div>
+                    <div style="border: 2px solid white; padding: 10px 10px 10px 10px;">
+                        <?php echo do_shortcode("[caldera_form id=\"CF59bf945bc2198\"]")?>
                     </div>
                 </div>
             </div>
@@ -216,10 +217,7 @@
                                     Call us on <em>061 278 601</em>.</h2>
                                 <hr />
                                 <address>
-                                    <strong>Proudly Designed by GymGo.ie,</strong><br>
-                                    10 The Crescent <br>
-                                    O'Connell Street <br>
-                                    Limerick <br>
+                                    <strong>Proudly Designed by GymGo.ie</strong><br>
                                 </address>
                             </div>
                         </div>
@@ -244,6 +242,17 @@
     <script src="wp-content/themes/gymgolanding/LoadingPageAssets/js/jquery.easing.min.js"></script>
     <script src="wp-content/themes/gymgolanding/LoadingPageAssets/js/scrolling-nav.js"></script>
 
+    <!-- Load Caldera-Form Libraries -->
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/parsley.min.js?ver=1.5.6.1'></script>
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/caldera-forms-front.min.js?ver=1.5.6.1'></script>
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/jquery-baldrick.min.js?ver=1.5.6.1'></script>
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/ajax-core.min.js?ver=1.5.6.1'></script>
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/conditionals.min.js?ver=1.5.6.1'></script>
+    <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/js/i18n/en.js?ver=1.5.6.1'></script>
+    <link rel='stylesheet' id='cf-intltelinputcss-css'  href='wp-content/plugins/caldera-forms/fields/phone_better/assets/css/intlTelInput.css?ver=1.5.6.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='cf-front-css'  href='wp-content/plugins/caldera-forms/assets/build/css/caldera-forms-front.min.css?ver=1.5.6.1' type='text/css' media='all' />
+
 </body>
 
 </html>
+
