@@ -29,6 +29,12 @@
     <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
+    <!-- Social Share BG Pic -->
+    <meta property="og:image" content="wp-content/themes/gymgolanding/LoadingPageAssets/img/FB-Post-Logo.png" />
+
+    <link rel="image_src" href="wp-content/themes/gymgolanding/LoadingPageAssets/img/FB-Post-Logo.png" />
+    <!-- End of Social Share BG Pic -->
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
