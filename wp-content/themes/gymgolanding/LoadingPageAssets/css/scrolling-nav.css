@@ -36,14 +36,14 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 130px;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg.jpg') no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg.jpg') center fixed;
     background-position: center;
     background-size: cover;
 }
 
 @media only screen and (max-width: 400px) {
     .home-section {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg-mobile.jpg') no-repeat center center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg-mobile.jpg') center fixed;
     }
 }
 
@@ -95,7 +95,7 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 100px;
     text-align: center;
-    background: url('../img/about-us-bg.jpg') no-repeat center center fixed;
+    background: url('../img/about-us-bg.jpg') center fixed;
     background-position: center;
     background-size: cover;
     color: white;
@@ -105,7 +105,7 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 150px;
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/join-us-bg.jpg') no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/join-us-bg.jpg') center fixed;
     background-position: center;
     background-size: cover;
 }
@@ -115,7 +115,7 @@ of those sections to manage the look and feel of the site. */
     padding-top: 100px;
     color: #fff;
     text-align: center;
-    background: url('../img/share-to-friends-bg.jpg') no-repeat center center fixed;
+    background: url('../img/share-to-friends-bg.jpg') center fixed;
     background-position: center;
     background-size: cover;
 }
@@ -124,7 +124,7 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: url('../img/contact-us-bg.jpg') no-repeat center center fixed;
+    background: url('../img/contact-us-bg.jpg') center fixed;
     background-position: center;
     background-size: cover;
 }
