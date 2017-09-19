@@ -253,6 +253,17 @@
     <link rel='stylesheet' id='cf-intltelinputcss-css'  href='wp-content/plugins/caldera-forms/fields/phone_better/assets/css/intlTelInput.css?ver=1.5.6.1' type='text/css' media='all' />
     <link rel='stylesheet' id='cf-front-css'  href='wp-content/plugins/caldera-forms/assets/build/css/caldera-forms-front.min.css?ver=1.5.6.1' type='text/css' media='all' />
 
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106765768-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
+
+        gtag('config', 'UA-106765768-1');
+    </script>
+
+
 </body>
 
 </html>
