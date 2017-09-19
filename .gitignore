@@ -19,3 +19,15 @@ wp-content/wp-cache-config.php
 
 .gitignore
 .idea/
+wp-content/themes/gulp-dev/node_modules/are-we-there-yet/CHANGES.md~
+wp-content/themes/gulp-dev/node_modules/console-control-strings/README.md~
+wp-content/themes/gulp-dev/node_modules/gifsicle/vendor/
+wp-content/themes/gulp-dev/node_modules/guetzli/vendor/
+wp-content/themes/gulp-dev/node_modules/in-publish/README.md~
+wp-content/themes/gulp-dev/node_modules/jpeg-recompress-bin/vendor/
+wp-content/themes/gulp-dev/node_modules/jpegoptim-bin/vendor/
+wp-content/themes/gulp-dev/node_modules/mozjpeg/vendor/
+wp-content/themes/gulp-dev/node_modules/optipng-bin/vendor/
+wp-content/themes/gulp-dev/node_modules/pngquant-bin/vendor/
+wp-content/themes/gulp-dev/node_modules/zopflipng-bin/vendor/
+wp-content/themes/gymgolanding/LoadingPageAssets/img/desktop.ini
