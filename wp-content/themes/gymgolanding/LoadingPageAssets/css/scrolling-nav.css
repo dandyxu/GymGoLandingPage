@@ -34,11 +34,20 @@ of those sections to manage the look and feel of the site. */
 
 .home-section {
     min-height: 100%;
-    padding-top: 200px;
+    padding-top: 100px;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg.jpg') no-repeat center center fixed;
     background-position: center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+@media only screen and (max-width: 400px) {
+    .home-section {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg-mobile.jpg') no-repeat center center fixed;
+    }
 }
 
 .home-section h1 {
@@ -85,24 +94,16 @@ of those sections to manage the look and feel of the site. */
     color: white!important;
 }
 
-
-.about-section {
-    height: 100%;
-    padding-top: 150px;
-    color: #fff;
-    text-align: center;
-    background: url('../img/about-bg.jpg');
-    background-position: center;
-    background-size: cover;
-}
-
 .about-us-section {
     min-height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
-    background: url('../img/about-us-bg.jpg');
+    background: url('../img/about-us-bg.jpg') no-repeat center center fixed;
     background-position: center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     color: white;
 }
 
@@ -110,9 +111,12 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 150px;
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/join-us-bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/join-us-bg.jpg') no-repeat center center fixed;
     background-position: center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .share-to-friends-section {
@@ -120,18 +124,24 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     color: #fff;
     text-align: center;
-    background: url('../img/share-to-friends-bg.jpg');
+    background: url('../img/share-to-friends-bg.jpg') no-repeat center center fixed;
     background-position: center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .contact-us-section {
     min-height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: url('../img/contact-us-bg.jpg');
+    background: url('../img/contact-us-bg.jpg') no-repeat center center fixed;
     background-position: center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .contact-us-section h1 {
