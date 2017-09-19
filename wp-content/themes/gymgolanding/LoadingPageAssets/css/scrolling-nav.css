@@ -39,6 +39,8 @@ of those sections to manage the look and feel of the site. */
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/home-bg.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 @media only screen and (max-width: 400px) {
@@ -49,6 +51,8 @@ of those sections to manage the look and feel of the site. */
         text-align: center;
         background-position: center;
         background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 }
 
@@ -103,6 +107,8 @@ of those sections to manage the look and feel of the site. */
     background: url('../img/about-us-bg.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: white;
 }
 
@@ -113,6 +119,8 @@ of those sections to manage the look and feel of the site. */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/join-us-bg.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .share-to-friends-section {
@@ -123,6 +131,8 @@ of those sections to manage the look and feel of the site. */
     background: url('../img/share-to-friends-bg.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .contact-us-section {
@@ -132,6 +142,8 @@ of those sections to manage the look and feel of the site. */
     background: url('../img/contact-us-bg.jpg');
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .contact-us-section h1 {
