@@ -50,6 +50,17 @@ of those sections to manage the look and feel of the site. */
         background-position: center;
         background-size: cover;
     }
+
+    .about-us-section {
+        min-height: 100%;
+        padding-top: 10px;
+        padding-bottom: 50px;
+        text-align: center;
+        background: url('../img/about-us-bg.jpg');
+        background-position: center;
+        background-size: cover;
+        color: white;
+    }
 }
 
 .home-section h1 {
