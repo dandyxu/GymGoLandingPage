@@ -99,6 +99,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <img src="wp-content/themes/gymgolanding/LoadingPageAssets/img/logo/Gymgo_large_home.png" style="width:260px; height:220px;" alt="GymGo.ie" /> <br />
+
+                    <h3 style="color: white; margin-bottom: -5px;">Coming Soon</h3>
                    <!--<div class="embed-responsive embed-responsive-16by9">
                         <iframe width="900" height="215" frameborder="0" src="https://www.youtube.com/embed/jx_HxehI4I0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>-->
