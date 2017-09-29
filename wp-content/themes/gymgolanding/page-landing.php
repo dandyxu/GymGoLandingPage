@@ -102,6 +102,9 @@
                    <!--<div class="embed-responsive embed-responsive-16by9">
                         <iframe width="900" height="215" frameborder="0" src="https://www.youtube.com/embed/jx_HxehI4I0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>-->
+
+                    <h3 style="color: white; margin-bottom: -5px;">Coming Soon</h3>
+
                     <button class="video check-video-button" data-video="https://www.youtube.com/embed/jx_HxehI4I0" data-toggle="modal" data-target="#videoModal">What is GymGo?</button>
 
                     <div class="modal fade " id="videoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
