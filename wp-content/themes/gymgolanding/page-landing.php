@@ -243,11 +243,6 @@
     <script src="wp-content/themes/gymgolanding/LoadingPageAssets/js/jquery.easing.min.js"></script>
     <script src="wp-content/themes/gymgolanding/LoadingPageAssets/js/scrolling-nav.js"></script>
 
-    <!-- Mailchimp Popup Script -->
-    <!--<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
-
-    <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"30229237cfae934a8fd3ba29c","lid":"8cabab55bb"}) })</script>-->
-
     <!-- Load Caldera-Form Libraries -->
     <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/parsley.min.js?ver=1.5.6.1'></script>
     <script type='text/javascript' src='wp-content/plugins/caldera-forms/assets/build/js/caldera-forms-front.min.js?ver=1.5.6.1'></script>
@@ -267,6 +262,11 @@
 
         gtag('config', 'UA-106765768-1');
     </script>
+
+    <!-- Mailchimp Popup Script -->
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+
+    <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"30229237cfae934a8fd3ba29c","lid":"8cabab55bb"}) })</script>
 
 
 </body>
